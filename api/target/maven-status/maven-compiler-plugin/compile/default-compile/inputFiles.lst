@@ -1,0 +1,16 @@
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/ApiApplication.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/config/RestConfig.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/model/Bucket.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/model/ObjectEntry.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/model/ObjectVersion.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/model/StorageNode.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/repo/BucketRepo.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/repo/ObjectEntryRepo.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/repo/ObjectVersionRepo.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/repo/StorageNodeRepo.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/service/PlacementService.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/service/ReplicationService.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/service/StorageNodeClient.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/web/BucketController.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/web/NodeController.java
+/Users/sumitdas/Desktop/mini-s3-project/mini-s3/api/src/main/java/com/example/minis3/web/ObjectController.java
